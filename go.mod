@@ -1,4 +1,4 @@
-module cerror
+module github.com/theroadoffreedom/cerror
 
 go 1.12
 
